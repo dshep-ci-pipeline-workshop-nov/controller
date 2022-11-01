@@ -1,0 +1,4 @@
+variables:
+- team: dshep-ci-pipeline-workshop-nov
+- admin-user: dshepherd-git-admin
+- manager-user: dshepherd-git
